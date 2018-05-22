@@ -1,2 +1,2 @@
-# 3DTicTacToe
-Wrote a minimax tree-based AI and designed a simple UI using C++ and nCurses
+# CSCE315Project3
+Tic Tac Toe board game and AI
